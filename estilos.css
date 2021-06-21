@@ -99,7 +99,7 @@ button:hover{
 	text-decoration: none;
 	color: #000;
 }
-textarea{
+message{
 	min-width: 90%;
 	max-width: 90%;
 	min-height: 250px;
